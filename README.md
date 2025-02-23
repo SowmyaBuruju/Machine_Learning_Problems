@@ -1,54 +1,7 @@
-GPT & Machine Learning Implementations
-📖 Overview
-This repository contains various machine learning (ML) and deep learning (DL) implementations using PyTorch. It includes fundamental concepts like gradient descent, linear regression, sentiment analysis, and advanced deep learning models such as GPT-based text generation, self-attention, and transformers.
+# 🚀 GPT & Machine Learning Implementations 🧠
 
-📂 Project Files
-Code_GPT.py - GPT model for text generation
-Gradient_Descent.py - Implements gradient descent optimization
-Linear_Regression_Training.py - Training loop for linear regression
-Sentiment_Analysis.py - Sentiment classification using word embeddings
-Multi_Headed_Self_Attention.py - Implements multi-headed self-attention
-Transformer_Block.py - Transformer block for deep learning models
-🛠️ Installation
-1️⃣ Clone the repository:
+## 📖 Overview
+This repository contains various **machine learning (ML) and deep learning (DL) implementations** using **PyTorch**. It covers essential algorithms such as **gradient descent, linear regression, sentiment analysis**, and advanced **GPT-based text generation, self-attention, and transformers**.
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/GPT-ML-DeepLearning.git
-cd GPT-ML-DeepLearning
-2️⃣ Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-🚀 Running Scripts
-Generate text using GPT:
-bash
-Copy
-Edit
-python Make_GPT_Talk_Back.py
-Train a linear regression model:
-bash
-Copy
-Edit
-python Linear_Regression_Training.py
-Perform sentiment analysis:
-bash
-Copy
-Edit
-python Sentiment_Analysis.py
-🧪 Testing
-Run unit tests:
-
-bash
-Copy
-Edit
-python -m unittest discover -s . -p "test_*.py"
-📌 Contact
-📍 Developed By: [Your Name]
-📍 GitHub: Your GitHub Profile
-📍 LinkedIn: Your LinkedIn Profile
-
-🚀 Happy Coding! 🚀
+## 📂 Project Structure
+📦 GPT-ML-DeepLearning │── 📜 README.md # Project Documentation │── 📜 requirements.txt # Dependencies │── 📜 Code_GPT.py # GPT Model Implementation │── 📜 Digit_Classifier.py # Neural Network for Digit Classification │── 📜 GPT_Dataset.py # Data Preprocessing for GPT Training │── 📜 Gradient_Descent.py # Gradient Descent Algorithm │── 📜 Linear_Regression_Forward.py # Linear Regression - Forward Propagation │── 📜 Linear_Regression_Training.py # Training Loop for Linear Regression │── 📜 Make_GPT_Talk_Back.py # GPT Text Generation │── 📜 Multi_Headed_Self_Attention.py # Multi-Headed Attention Implementation │── 📜 NLP.py # Natural Language Processing Tasks │── 📜 Python_Basics.py # PyTorch Basics (Tensor Operations) │── 📜 Self_Attention.py # Self-Attention Mechanism │── 📜 Sentiment_Analysis.py # Sentiment Classification Model │── 📜 Transformer_Block.py # Transformer Block Implementation
