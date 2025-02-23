@@ -26,7 +26,7 @@ This repository contains various **machine learning (ML) and deep learning (DL) 
 ## 🛠️ Installation
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/GPT-ML-DeepLearning.git
+git clone https://github.com/SowmyaBuruju/Machine_Learning_Problems.git
 cd GPT-ML-DeepLearning
 ```
 ### **2️⃣ Install Dependencies**
