@@ -57,10 +57,6 @@ python -m unittest discover -s . -p "test_*.py"
 ## 📜 License
 This project is licensed under the **MIT License**.
 
-## 📌 Contact
-📍 **Developed By:** *[Your Name]*  
-📍 **GitHub:** [Your GitHub Profile](https://github.com/your-username)  
-📍 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-name)  
 
 🚀 **Happy Coding!** 🚀
 
